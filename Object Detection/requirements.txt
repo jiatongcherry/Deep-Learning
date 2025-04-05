@@ -6,3 +6,5 @@ accelerate
 timm
 albumentations==1.4.6
 pycocotools
+pillow
+transformers[torch]
